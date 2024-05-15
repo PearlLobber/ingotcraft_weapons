@@ -1,0 +1,6 @@
+give @p golden_sword{display:{Name:'{"text":"Kaminari","color":"#FFF700","bold":true,"italic":true}',Lore:['{"text":"FEEL THE THUNDER","color":"yellow","italic":true}','{"text":"Electrocutes recipient upon hit.","color":"red"}']},HideFlags:5,Unbreakable:1b,CustomModelData:900003,custom_item:1,Enchantments:[{}],AttributeModifiers:[{AttributeName:"generic.movement_speed",Name:"generic.movement_speed",Amount:0.6,Operation:1,UUID:[I;430233198,-1984804482,-2144747342,-934882714],Slot:"mainhand"},{AttributeName:"generic.attack_damage",Name:"generic.attack_damage",Amount:11,Operation:0,UUID:[I;-1067590489,-287881658,-1476729359,-1029988198],Slot:"mainhand"},{AttributeName:"generic.attack_speed",Name:"generic.attack_speed",Amount:-2.6,Operation:0,UUID:[I;-1179227061,-1313324630,-2022679476,-143413083],Slot:"mainhand"},{AttributeName:"generic.armor",Name:"generic.armor",Amount:-0.4,Operation:1,UUID:[I;1817654966,1159284201,-1152978059,1894862412],Slot:"mainhand"},{AttributeName:"generic.armor_toughness",Name:"generic.armor_toughness",Amount:-0.2,Operation:1,UUID:[I;1643965678,194463603,-1332285783,-314600080],Slot:"mainhand"}]}
+
+# from /weapons
+advancement revoke @s only ingotcraftweapons:technical/weapons/kaminari
+clear @s minecraft:knowledge_book
+recipe take @s ingotcraftweapons:weapons/kaminari

@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "ingotcraftweapons:weapons/reinforced/pickaxe"
+            }
+        }
+    },
+    "rewards": {
+        "function": "ingotcraftweapons:item/weapon/reinforced/pickaxe/give"
+    }      
+}

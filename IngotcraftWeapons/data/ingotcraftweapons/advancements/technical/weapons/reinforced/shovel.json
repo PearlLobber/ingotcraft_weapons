@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "ingotcraftweapons:weapons/reinforced/shovel"
+            }
+        }
+    },
+    "rewards": {
+        "function": "ingotcraftweapons:item/weapon/reinforced/shovel/give"
+    }      
+}

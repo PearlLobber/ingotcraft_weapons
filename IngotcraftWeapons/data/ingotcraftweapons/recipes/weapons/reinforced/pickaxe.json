@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "nNn",
+        " D ",
+        " E "
+    ],
+    "key": {
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "D": {
+            "item": "minecraft:dune_armor_trim_smithing_template"
+        },
+        "E": {
+            "item": "minecraft:netherite_pickaxe"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

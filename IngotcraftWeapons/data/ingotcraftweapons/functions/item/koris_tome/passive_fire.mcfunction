@@ -1,0 +1,1 @@
+execute if predicate ingotcraftweapons:holding_item/koris_tome as @s at @s run function ingotcraftweapons:item/koris_tome/projectile

@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "ingotcraftweapons:weapons/kaminari"
+            }
+        }
+    },
+    "rewards": {
+        "function": "ingotcraftweapons:item/kaminari/give"
+    }
+}

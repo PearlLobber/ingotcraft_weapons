@@ -1,0 +1,13 @@
+{
+  "placement": {
+      "type": "minecraft:random_spread",
+      "spacing": 34,
+      "separation": 8,
+      "salt": 867234107,
+      "spread_type": "triangular"
+  },
+  "structures": [{
+    "structure": "ingotcraftweapons:ruined_academy",
+    "weight": 1
+  }]
+}

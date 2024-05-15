@@ -1,0 +1,27 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B#",
+        "#N#",
+        "#C#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:netherite_block"
+        },
+        "B": {
+            "item": "minecraft:blaze_powder"
+        },
+        "N": {
+            "item": "minecraft:netherite_axe"
+        },
+        "C": {
+            "item": "minecraft:netherite_upgrade_smithing_template"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

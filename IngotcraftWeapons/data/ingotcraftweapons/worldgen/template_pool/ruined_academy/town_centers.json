@@ -1,0 +1,13 @@
+{
+    "name": "ingotcraftweapons:ruined_academy/town_centers",
+    "fallback": "minecraft:empty",
+    "elements": [{
+        "weight": 1,
+        "element": {
+            "location": "ingotcraftweapons:ruined_academy/town_centers/snowy_gate",
+            "projection": "rigid",
+            "processors": "minecraft:empty",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }]
+}

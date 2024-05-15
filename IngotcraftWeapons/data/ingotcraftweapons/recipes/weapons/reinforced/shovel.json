@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "gng",
+        "nDn",
+        " N "
+    ],
+    "key": {
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "D": {
+            "item": "minecraft:dune_armor_trim_smithing_template"
+        },
+        "N": {
+            "item": "minecraft:netherite_shovel"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book"
+    }
+}    

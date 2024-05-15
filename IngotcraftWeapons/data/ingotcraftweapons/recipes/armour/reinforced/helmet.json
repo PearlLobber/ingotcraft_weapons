@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#N#",
+        "#Y#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:netherite_block"
+        },
+        "N": {
+            "item": "minecraft:netherite_helmet"
+        },
+        "Y": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "ingotcraftweapons:armour/reinforced/leggings"
+            }
+        }
+    },
+    "rewards": {
+        "function": "ingotcraftweapons:item/armour/reinforced/leggings/give"
+    }
+}

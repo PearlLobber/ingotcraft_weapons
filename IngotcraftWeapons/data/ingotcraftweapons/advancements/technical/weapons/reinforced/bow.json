@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "ingotcraftweapons:weapons/reinforced/bow"
+            }
+        }
+    },
+    "rewards": {
+        "function": "ingotcraftweapons:item/weapon/reinforced/bow/give"
+    }      
+}

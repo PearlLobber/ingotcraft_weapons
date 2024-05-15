@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "ingotcraftweapons:weapons/fists_of_extinction"
+            }
+        }
+    },
+    "rewards": {
+        "function": "ingotcraftweapons:item/fists_of_extinction/give"
+    }
+}
